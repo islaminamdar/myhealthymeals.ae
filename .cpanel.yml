@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-      - export DEPLOYPATH=/home/healthymeals/public_html/
+      - export DEPLOYPATH=/home/myhealthymeals/public_html/
           - /bin/cp -r * $DEPLOYPATH
